@@ -1,4 +1,4 @@
-# 💫 Sobre mim:
+#  Sobre mim:
 Estudante de ADS (Análise e desenvolvimento de sistemas)<br>
 Postando alguns materiais de estudo<br>
 
