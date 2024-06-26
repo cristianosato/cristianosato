@@ -1,5 +1,6 @@
 # 💫 Sobre mim:
-Sou estudante de ADS (Análise e desenvolvimento de sistemas)<br>
+Estudante de ADS (Análise e desenvolvimento de sistemas)<br>
+Postando alguns materiais de estudo<br>
 
 
 ## 🌐 Rede Sociais:
